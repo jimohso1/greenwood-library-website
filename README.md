@@ -60,3 +60,10 @@
 3. Staging, committing and pushing the changes to the main branch
 
 * Staging
+![stagged](./img/Stagged%20files.png)
+
+* Committing
+![committed](./img/Committed%20files.png)
+
+* Pushing
+![pushed](./img/Pushed%20to%20main.png)
