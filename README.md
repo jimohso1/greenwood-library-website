@@ -72,4 +72,26 @@
 # Morgan's Work: Adding Book Reviews
 
 1. Create a Branch for Morgan
-!
+![BranchCreated](./img/Morgans'%20branch.png)
+
+2. Switch to a new branch named; add-book-reviews
+![BranchSwitched](./img/Switched%20to%20Morgans'%20branch.png)
+
+3. Add a new file book_reviews.html to represent the Book Reviews Section
+![FileAdded](./img/Book%20reviews%20section%20by%20Morgan.png)
+
+4. Add a random content into the file
+![RandomContentAdded](./img/Random%20content%20added%20by%20Morgan.png)
+
+5. Stage, Commit and Push Changes with a message like "Add book review section."
+![Staged](./img/Morgan%20Staged.png)
+![Committed](./img/Morgan%20Committed.png)
+
+6. Push the Add-book-reviews branch to GitHub
+![Pushed](./img/Morgan%20Pushed.png)
+
+7. Raise a PR for Morgan's work
+![PullRequest](./img/Morgan's%20Pull%20Request.png)
+
+8. Merge Morgan's work to the main branch
+![Morgan'sWorkMergedToTheMainBranchSuccessfully](./img/Morgan's%20work%20merged.png)
