@@ -68,8 +68,5 @@
 * Pushing
 ![pushed](./img/Pushed%20to%20main.png)
 
-
-# Morgan's Work: Adding Book Reviews
-
-1. Create a Branch for Morgan
-!
+update-events
+Jamie's Work: Updating Events Page
