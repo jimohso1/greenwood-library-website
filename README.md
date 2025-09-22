@@ -67,3 +67,6 @@
 
 * Pushing
 ![pushed](./img/Pushed%20to%20main.png)
+
+Jamie's Work: Updating Events Page
+
