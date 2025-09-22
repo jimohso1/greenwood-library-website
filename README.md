@@ -45,16 +45,16 @@
 
 2. Add any random content into each of the files.
 
-* Content 1
+* Content 1: home
 ![homecontent](./img/Home%20content.png)
 
-* Content 2
+* Content 2: about_us
 ![aboutcontent](./img/About%20content.png)
 
-* Content 3
+* Content 3: events
 ![eventscontent](./img/Event%20content.png)
 
-* Content 4
+* Content 4: contact_us
 ![contactcontent](./img/Contact_us%20content.png)
 
 3. Staging, committing and pushing the changes to the main branch
@@ -67,3 +67,9 @@
 
 * Pushing
 ![pushed](./img/Pushed%20to%20main.png)
+
+
+# Morgan's Work: Adding Book Reviews
+
+1. Create a Branch for Morgan
+!
